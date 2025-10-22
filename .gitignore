@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+*.eggs/
+.python-version
+.venv/
+venv/
+backend/.venv/
+
+# Environment & secrets
+.env
+.env.*
+*.env
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+frontend/.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Builds & artefacts
+build/
+dist/
+.cache/
+coverage/
+*.log
+*.sqlite3
+*.db
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
