@@ -1,4 +1,4 @@
-# Sentinel LLM Guard Prototype
+# DataShield LLM
 
 Prototype full-stack system that protects sensitive data flowing through Large Language Model (LLM) workloads. It masks detected entities, stores reversible mappings securely, proxies the LLM, and inspects egress traffic for leaks.
 
